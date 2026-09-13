@@ -1,0 +1,735 @@
+{
+  "message_templates": [
+    {
+      "name": "Default Welcome",
+      "message": "Hi! Thanks for following. How can I help you today?"
+    },
+    {
+      "name": "first",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq"
+    }
+  ],
+  "safety_settings": {
+    "min_delay_seconds": 5,
+    "max_delay_seconds": 10,
+    "daily_message_limit": 50,
+    "hourly_message_limit": 100
+  },
+  "bot_settings": {
+    "headless": false,
+    "save_session": true
+  },
+  "contact_lists": {
+    "kk": [
+      "donthatethisplaya",
+      "ahmad.murad_11",
+      "kenji_987654",
+      "6.ssergio_",
+      "llhapryl",
+      "martin_toscanoo",
+      "steven_maclay99",
+      "demha216",
+      "time.flows.back",
+      "alonely_0_0",
+      "kasi_heroo",
+      "t8vv.v"
+    ],
+    "kkkk": [
+      "sam_studioz",
+      "ydegroot_",
+      "edo___2013",
+      "nest.reps",
+      "silver.99s",
+      "unwanted_user000",
+      "zribeirogui",
+      "elijahh.657",
+      "kevincarpena.el",
+      "only.vasco16",
+      "taylinmcmillan",
+      "snnnnniki",
+      "ms_a_li",
+      "sir_nessman",
+      "dinosaur.4222022",
+      "unbothered_kaleel",
+      "_rak1b._",
+      "gkcilhn",
+      "780.twinsbro",
+      "adityaa0070",
+      "hamza934730",
+      "taro._s",
+      "xtbroeur_",
+      "rabbi_khatrii",
+      "moses_nimuragire",
+      "jameshargreace",
+      "m4br._",
+      "shahnoor_israni_",
+      "rt.66620",
+      "wiuei2025",
+      "l_wessels_l",
+      "nq.pako"
+    ],
+    "90": [
+      "mapheto.s",
+      "silver.99s",
+      "yahye3338",
+      "bishopcruz27",
+      "don_ismaeelc",
+      "jamalailali",
+      "wp1lli",
+      "oussafamine",
+      "snnnnniki",
+      "alim777l",
+      "dinosaur.4222022",
+      "gkcilhn",
+      "masterx_cobra",
+      "hrr_.h",
+      "kalmansour73",
+      "k3zesa",
+      "ahmed_d_vvvv",
+      "lanknation111",
+      "hlonixmoshane",
+      "isaac_sean2011",
+      "rt.66620",
+      "wiuei2025",
+      "christopher_prieto47",
+      "unwanted_user000",
+      "edo___2013",
+      "zribeirogui",
+      "b_backltr",
+      "kevincarpena.el",
+      "tea10710",
+      "officialmarilynsaad",
+      "james_p_vickers_ii",
+      "only.vasco16",
+      "pakhi.roy.52012548",
+      "ms_a_li",
+      "davis_b_cards",
+      "sir_nessman",
+      "unbothered_kaleel",
+      "_rak1b._",
+      "yaz.xyzh",
+      "thorfinn_1s",
+      "hamza934730",
+      "nurulafsartanjil",
+      "jz_stephen101",
+      "sina.__.v",
+      "davyvanderweide",
+      "hamza.alshamali2",
+      "ydegroot_",
+      "jkouakou4",
+      "yearofthetrader",
+      "thecalebbean",
+      "elijahh.657",
+      "musaevqw3",
+      "hyper.toxic.masculinity",
+      "780.twinsbro",
+      "adityaa0070",
+      "xtbroeur_",
+      "2grind2win",
+      "rabbi_khatrii",
+      "moses_nimuragire",
+      "m4br._",
+      "elianlovesgod",
+      "dz_7319",
+      "kd1pi",
+      "scorp._.ios",
+      "shahnoor_israni_",
+      "itz_inevitable0",
+      "nq.pako",
+      "10.4less4ndr0",
+      "rai.feng",
+      "sam_studioz",
+      "displaymusic23",
+      "nest.reps",
+      "lyessx7",
+      "isaacliftsyou",
+      "ijenword",
+      "liamhanrahann",
+      "the_biggermonkey",
+      "taylinmcmillan",
+      "death_relish",
+      "urrkkee",
+      "m_fajfr",
+      "taro._s",
+      "millionaires349",
+      "paola299625",
+      "mknvhvhb",
+      "kvn_alvs777",
+      "m.abbasbahi",
+      "l_wessels_l",
+      "raunaksadhwani",
+      "jameshargreace"
+    ]
+  },
+  "sent_messages_log": [
+    {
+      "username": "zyad.rg",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T14:20:52.937624"
+    },
+    {
+      "username": "thebabylon.inc",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T14:32:53.963049"
+    },
+    {
+      "username": "thebabylon.inc",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T14:33:28.105358"
+    },
+    {
+      "username": "zyad.rg",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T14:58:38.422050"
+    },
+    {
+      "username": "zyad.rg",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T14:58:52.801867"
+    },
+    {
+      "username": "zyad.rg",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:23:01.596431"
+    },
+    {
+      "username": "thebabylon.inc",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:23:47.552872"
+    },
+    {
+      "username": "zyad.rg",
+      "message": "test",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:23:52.023790"
+    },
+    {
+      "username": "thebabylon.inc",
+      "message": "test",
+      "status": "success",
+      "timestamp": "2026-02-16T15:24:21.156010"
+    },
+    {
+      "username": "donthatethisplaya",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "success",
+      "timestamp": "2026-02-16T15:41:20.976742"
+    },
+    {
+      "username": "kenji_987654",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "success",
+      "timestamp": "2026-02-16T15:41:20.979078"
+    },
+    {
+      "username": "llhapryl",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "success",
+      "timestamp": "2026-02-16T15:41:20.981015"
+    },
+    {
+      "username": "steven_maclay99",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "success",
+      "timestamp": "2026-02-16T15:41:20.982921"
+    },
+    {
+      "username": "ahmad.murad_11",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.984852"
+    },
+    {
+      "username": "6.ssergio_",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.986374"
+    },
+    {
+      "username": "martin_toscanoo",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.989535"
+    },
+    {
+      "username": "demha216",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.991747"
+    },
+    {
+      "username": "time.flows.back",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.993703"
+    },
+    {
+      "username": "alonely_0_0",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.995691"
+    },
+    {
+      "username": "kasi_heroo",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.997576"
+    },
+    {
+      "username": "t8vv.v",
+      "message": "hi, you've been seleted to join the official pumpfun discord.\ntrench with a community of 60k+ members and benefit on daily live streams and value (tools+alpha) -> discord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-16T15:41:20.999549"
+    },
+    {
+      "username": "hrr_.h",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "success",
+      "timestamp": "2026-02-17T17:56:48.716839"
+    },
+    {
+      "username": "mapheto.s",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.721831"
+    },
+    {
+      "username": "silver.99s",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.724066"
+    },
+    {
+      "username": "yahye3338",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.726276"
+    },
+    {
+      "username": "bishopcruz27",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.728582"
+    },
+    {
+      "username": "don_ismaeelc",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.730871"
+    },
+    {
+      "username": "jamalailali",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.732514"
+    },
+    {
+      "username": "wp1lli",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.734507"
+    },
+    {
+      "username": "oussafamine",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.736405"
+    },
+    {
+      "username": "snnnnniki",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.738341"
+    },
+    {
+      "username": "alim777l",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.740264"
+    },
+    {
+      "username": "dinosaur.4222022",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.742269"
+    },
+    {
+      "username": "gkcilhn",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.745180"
+    },
+    {
+      "username": "masterx_cobra",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.747403"
+    },
+    {
+      "username": "kalmansour73",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.749365"
+    },
+    {
+      "username": "k3zesa",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.751340"
+    },
+    {
+      "username": "ahmed_d_vvvv",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.753391"
+    },
+    {
+      "username": "lanknation111",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.755355"
+    },
+    {
+      "username": "hlonixmoshane",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.757917"
+    },
+    {
+      "username": "isaac_sean2011",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.760904"
+    },
+    {
+      "username": "rt.66620",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.762966"
+    },
+    {
+      "username": "wiuei2025",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.765052"
+    },
+    {
+      "username": "christopher_prieto47",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.767177"
+    },
+    {
+      "username": "unwanted_user000",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.769737"
+    },
+    {
+      "username": "edo___2013",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.772310"
+    },
+    {
+      "username": "zribeirogui",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.774635"
+    },
+    {
+      "username": "b_backltr",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.777495"
+    },
+    {
+      "username": "kevincarpena.el",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.779881"
+    },
+    {
+      "username": "tea10710",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.782747"
+    },
+    {
+      "username": "officialmarilynsaad",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.785049"
+    },
+    {
+      "username": "james_p_vickers_ii",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.787636"
+    },
+    {
+      "username": "only.vasco16",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.790364"
+    },
+    {
+      "username": "pakhi.roy.52012548",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.793194"
+    },
+    {
+      "username": "ms_a_li",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.795590"
+    },
+    {
+      "username": "davis_b_cards",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.798225"
+    },
+    {
+      "username": "sir_nessman",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.800716"
+    },
+    {
+      "username": "unbothered_kaleel",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.803245"
+    },
+    {
+      "username": "_rak1b._",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.805840"
+    },
+    {
+      "username": "yaz.xyzh",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.808891"
+    },
+    {
+      "username": "thorfinn_1s",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.812135"
+    },
+    {
+      "username": "hamza934730",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.814313"
+    },
+    {
+      "username": "nurulafsartanjil",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.816630"
+    },
+    {
+      "username": "jz_stephen101",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.819489"
+    },
+    {
+      "username": "sina.__.v",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.822047"
+    },
+    {
+      "username": "davyvanderweide",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.824580"
+    },
+    {
+      "username": "hamza.alshamali2",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.827955"
+    },
+    {
+      "username": "ydegroot_",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.831257"
+    },
+    {
+      "username": "jkouakou4",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.833684"
+    },
+    {
+      "username": "yearofthetrader",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.836844"
+    },
+    {
+      "username": "thecalebbean",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.840360"
+    },
+    {
+      "username": "elijahh.657",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.843737"
+    },
+    {
+      "username": "musaevqw3",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.846566"
+    },
+    {
+      "username": "hyper.toxic.masculinity",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.849705"
+    },
+    {
+      "username": "780.twinsbro",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.852534"
+    },
+    {
+      "username": "adityaa0070",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.855115"
+    },
+    {
+      "username": "xtbroeur_",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.857853"
+    },
+    {
+      "username": "2grind2win",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.860972"
+    },
+    {
+      "username": "rabbi_khatrii",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.863769"
+    },
+    {
+      "username": "moses_nimuragire",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.866912"
+    },
+    {
+      "username": "m4br._",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.869767"
+    },
+    {
+      "username": "elianlovesgod",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.872923"
+    },
+    {
+      "username": "dz_7319",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.876561"
+    },
+    {
+      "username": "kd1pi",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.879297"
+    },
+    {
+      "username": "scorp._.ios",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.882472"
+    },
+    {
+      "username": "shahnoor_israni_",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.886148"
+    },
+    {
+      "username": "itz_inevitable0",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.889794"
+    },
+    {
+      "username": "nq.pako",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.893730"
+    },
+    {
+      "username": "10.4less4ndr0",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.896623"
+    },
+    {
+      "username": "rai.feng",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.900065"
+    },
+    {
+      "username": "sam_studioz",
+      "message": "if it was mid, it wouldnt have 65k+ members. \n\njoin the official pumpfun discord for free exlusive opportunities ($$). \n\ndiscord.gg/tGFuJjdvmq",
+      "status": "failed",
+      "timestamp": "2026-02-17T17:56:48.903169"
+    }
+  ],
+  "collected_followers": {
+    "wealthybruvs": [
+      "saidespind",
+      "djejericjr",
+      "x_usman1890_",
+      "iron1clad1",
+      "ua.nkown.r",
+      "aykct",
+      "andrei.777771",
+      "mrmariosbrooksbank",
+      "rajesh24979",
+      "antek_75",
+      "laverstand",
+      "zazae693",
+      "meme.animate",
+      "n_dir._zuca",
+      "1010102382s",
+      "rustyrross",
+      "ilyas_xman",
+      "its.not.me.fr1"
+    ]
+  },
+  "auto_followers_list": "All Followers"
+}
